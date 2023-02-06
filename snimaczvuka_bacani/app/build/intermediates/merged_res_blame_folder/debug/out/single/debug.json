@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/raw_b.wav.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/raw/b.wav"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/raw_d.wav.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/raw/d.wav"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/raw_c2.wav.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/raw/c2.wav"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/raw_f.wav.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/raw/f.wav"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.snimaczvuka_bacani.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/raw_eb.wav.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/raw/eb.wav"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/raw_g1.wav.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/raw/g1.wav"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/raw_a.wav.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/raw/a.wav"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/raw_bb.wav.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/raw/bb.wav"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/raw_g.wav.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/raw/g.wav"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/raw_f1.wav.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/raw/f1.wav"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/raw_c1.wav.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/raw/c1.wav"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/raw_e.wav.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/raw/e.wav"
+    },
+    {
+        "merged": "com.example.snimaczvuka_bacani.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.snimaczvuka_bacani.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
